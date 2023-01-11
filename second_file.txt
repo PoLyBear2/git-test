@@ -1,2 +1,6 @@
 새로 만들기
+<<<<<<< HEAD
 git-test에서 수정
+=======
+git-test-clone에서 수정
+>>>>>>> a80f9bac762cce21a97eb13c938bdba68072f714
