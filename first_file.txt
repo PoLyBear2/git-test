@@ -1,5 +1,2 @@
-수정했다.
-<<<<<<< HEAD
-클론폴더 수정 fact
+awesome-feature!
 
-new-feature!
